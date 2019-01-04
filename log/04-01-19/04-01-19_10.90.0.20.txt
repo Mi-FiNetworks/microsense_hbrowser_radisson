@@ -1,0 +1,61 @@
+
+2019-01-04 08:25:42 ====10.90.0.20
+2019-01-04 08:25:42 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:27:09 ====10.90.0.20
+2019-01-04 08:27:09 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:27:28 ====10.90.0.20
+2019-01-04 08:27:28 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:27:48 ====10.90.0.20
+2019-01-04 08:27:48 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:28:57 ====10.90.0.20
+2019-01-04 08:28:57 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:29:56 ====10.90.0.20
+2019-01-04 08:29:56 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:30:14 ====10.90.0.20
+2019-01-04 08:30:14 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:31:32 ====10.90.0.20
+2019-01-04 08:31:32 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:31:55 ====10.90.0.20
+2019-01-04 08:31:55 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:32:02 ====10.90.0.20
+2019-01-04 08:32:02 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:32:07 ====10.90.0.20
+2019-01-04 08:32:07 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:32:17 ====10.90.0.20
+2019-01-04 08:32:17 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:34:00 ====10.90.0.20
+2019-01-04 08:34:00 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:34:05 ====10.90.0.20
+2019-01-04 08:34:05 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:37:40 ====10.90.0.20
+2019-01-04 08:37:40 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:38:28 ====10.90.0.20
+2019-01-04 08:38:28 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:38:43 ====10.90.0.20
+2019-01-04 08:38:43 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:38:50 ====10.90.0.20
+2019-01-04 08:38:50 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:41:20 ====10.90.0.20
+2019-01-04 08:41:20 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:41:52 ====10.90.0.20
+2019-01-04 08:41:52 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:41:58 ====10.90.0.20
+2019-01-04 08:41:59 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:44:55 ====10.90.0.20
+2019-01-04 08:44:55 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:45:39 ====10.90.0.20
+2019-01-04 08:45:39 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:56:33 ====10.90.0.20
+2019-01-04 08:56:33 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 08:56:40 ====10.90.0.20
+2019-01-04 08:56:40 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 09:32:57 ====10.90.0.20
+2019-01-04 09:32:57 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 09:44:01 ====10.90.0.20
+2019-01-04 09:44:01 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 09:44:25 ====10.90.0.20
+2019-01-04 09:44:25 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 09:44:36 ====10.90.0.20
+2019-01-04 09:44:36 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
+2019-01-04 09:44:47 ====10.90.0.20
+2019-01-04 09:44:47 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.20' and GuestStatus='A'
